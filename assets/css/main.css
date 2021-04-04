@@ -2865,14 +2865,15 @@ input, select, textarea {
 
 	ul.icons {
 
-		display: table;
-		margin: 0 auto;
-	    /*text-align: center;
+		/*display: table;
+		margin: 0 auto;*/
+
+	    text-align: center;
 		
-		list-style: inside;
+		list-style: none;
 		padding-left: 0;
 		cursor: default; 
-		*/
+		
 		
 	}
 
