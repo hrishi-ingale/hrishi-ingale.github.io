@@ -99,8 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/sky.jpg");
-		height: 150%;
+		background-image: url("images/sky_large.jpg");
+		/*height: 150%;*/
 
 		/*background-color: #935d8c;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
