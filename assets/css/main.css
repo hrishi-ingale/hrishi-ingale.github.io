@@ -99,7 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/sfo.jpg");
+		background-image: url("images/sfo_large.jpg");
+		/* */
 		/*height: 150%;*/
 
 		/*background-color: #935d8c;
