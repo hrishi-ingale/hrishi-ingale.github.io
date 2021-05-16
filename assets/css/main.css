@@ -99,7 +99,8 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/grass_blossom.jpg");
+		background-image: url("images/pink_blossom.jpg");
+		background-size: cover;
 		/* */
 		/*height: 150%;*/
 
