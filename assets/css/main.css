@@ -2528,7 +2528,7 @@ input, select, textarea {
 
 		.icon.alt {
 			display: inline-block;
-			border: solid 1px;
+			border: solid 3px;
 			border-radius: 100%;
 		}
 
